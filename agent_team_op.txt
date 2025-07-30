@@ -1,0 +1,70 @@
+/Users/ankitnayan/opt/anaconda3/envs/aienv/lib/python3.11/site-packages/phi/tools/duckduckgo.py:86:
+RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install 
+ddgs` instead.
+  ddgs = DDGS(
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ Summarize analyst recommendations and share the latest news for NVDA                            ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (41.3s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ Running:                                                                                        ┃
+┃                                                                                                 ┃
+┃  • transfer_task_to_finance_agent(task_description=Get the latest analyst recommendations for   ┃
+┃    NVIDIA Corporation (NVDA)., expected_output=..., additional_information=Focus on the most    ┃
+┃    recent data available.)                                                                      ┃
+┃  • transfer_task_to_web_agent(task_description=Find the latest news articles about NVIDIA       ┃
+┃    Corporation (NVDA)., expected_output=..., additional_information=Focus on news that has been ┃
+┃    published in the past week.)                                                                 ┃
+┃                                                                                                 ┃
+┃                      Analyst Recommendations for NVIDIA Corporation (NVDA)                      ┃
+┃                                                                                                 ┃
+┃ Here is a summary of the most recent analyst recommendations for NVIDIA Corporation:            ┃
+┃                                                                                                 ┃
+┃                                                                                                 ┃
+┃   Time Period    Strong Buy   Buy   Hold   Sell   Strong Sell                                   ┃
+┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                                  ┃
+┃   Current        12           46    7      1      0                                             ┃
+┃   1 Month Ago    12           45    6      1      0                                             ┃
+┃   2 Months Ago   12           44    7      1      0                                             ┃
+┃                                                                                                 ┃
+┃                                                                                                 ┃
+┃                                            Insights:                                            ┃
+┃                                                                                                 ┃
+┃  • Current Sentiment: The current sentiment is predominantly bullish, with a total of 58 "Buy"  ┃
+┃    or "Strong Buy" ratings out of 66 analysts.                                                  ┃
+┃  • Trends: There is a slight increase in the number of analysts recommending a "Buy" this       ┃
+┃    month, indicating growing optimism among analysts.                                           ┃
+┃                                                                                                 ┃
+┃ This data reflects analysts' strong confidence in NVIDIA's performance and potential for        ┃
+┃ growth. The number of "Hold" and "Sell" ratings remains relatively low.                         ┃
+┃                                                                                                 ┃
+┃                            Latest News on NVIDIA Corporation (NVDA)                             ┃
+┃                                                                                                 ┃
+┃ Here is a summary of the latest news related to NVIDIA Corporation published in the past week:  ┃
+┃                                                                                                 ┃
+┃  1 Nvidia's CEO Has Just Dropped Game-Changing News (Published: July 16, 2025)                  ┃
+┃     • Nvidia is leading a global AI revolution with U.S.-China export breakthroughs boosting    ┃
+┃       sales of the H20 GPU in China, significantly driving revenue.                             ┃
+┃     • Read more (Source: Seeking Alpha)                                                         ┃
+┃  2 Why Wall Street Remains Bullish on AI Chip Leader (Published: July 16, 2025)                 ┃
+┃     • Nvidia is highlighted as a top AI stock. KeyBanc reiterates "Overweight" on their stock   ┃
+┃       due to positive outlooks on their Blackwell chip.                                         ┃
+┃     • Read more (Source: Insider Monkey)                                                        ┃
+┃  3 Deflation Is Coming From The Robots, Says Jim Cramer (Published: July 15, 2025)              ┃
+┃     • Jim Cramer discusses Nvidia as a pivotal company in AI, emphasizing its innovation and    ┃
+┃       leadership.                                                                               ┃
+┃     • Read more (Source: Yahoo Finance)                                                         ┃
+┃  4 Holding On For The Ride At All-Time Highs (Published: July 15, 2025)                         ┃
+┃     • Nvidia reaches record highs with a $4 trillion valuation, prompting discussion of future  ┃
+┃       growth potential.                                                                         ┃
+┃     • Read more (Source: Seeking Alpha)                                                         ┃
+┃  5 Stock Has Benefited From US-China Negotiations, Says Jim Cramer (Published: July 11, 2025)   ┃
+┃     • Jim Cramer comments on Nvidia's stock benefiting from US-China negotiations, emphasizing  ┃
+┃       positive impacts on the market.                                                           ┃
+┃     • Read more (Source: Insider Monkey)                                                        ┃
+┃                                                                                                 ┃
+┃ These articles reflect Nvidia's strong positioning in the AI market, recent financial           ┃
+┃ successes, and potential for future growth due to technological advancements and international  ┃
+┃ trade developments.     

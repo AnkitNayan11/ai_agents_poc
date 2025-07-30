@@ -1,0 +1,53 @@
+
+(aienv) ankitnayan@SV-MAC-273 ai_agent % python txt_clean.py
+api_key
+[
+  {
+    "product_name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+    "rating": 5,
+    "review": "Nice product definitely best and worth big change from the iphone 15 worth for the price camera is excellent and app ui is also pretty good. Great performance. The feek of the Iphone 16"
+  },
+  {
+    "product_name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+    "rating": 5,
+    "review": "Got iphone 16, genuine, brand new, and at a great price. I was very concerned about the authenticity of the product because there were mixed reviews. So after receiving the product I checked the product in and out from serial no, to battery, first cycle etc..everything. Happy with the purchase."
+  },
+  {
+    "product_name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+    "rating": 4,
+    "review": "Good camera. Iphone as always looks stunning especially in the new ultramarine color. Things to improve is battery life and definitely the outdated 60 Hz display. Feel in hand is far more better than s25 any variants. Also, initially ios 18 was having hiccups but ios 18.5 has got some smoothness in performance back. Prolonged gaming causes heating issue. Sound quality is great btw. Definitely samsung needs to improve camera and in hand feel of its s series flagship to be a better rival."
+  },
+  {
+    "product_name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+    "rating": 5,
+    "review": "Nice 👍 colour nice 🙂 speed and easy to hand not a big not a small medium size better choice"
+  },
+  {
+    "product_name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+    "rating": 5,
+    "review": "iPhone 16 is brilliant …display , sound, camera, performance is simply excellent..but battery drains issue still running on iPhones"
+  },
+  {
+    "product_name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+    "rating": 5,
+    "review": "Very good quality"
+  },
+  {
+    "product_name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+    "rating": 5,
+    "review": "Amazing Phone"
+  },
+  {
+    "product_name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+    "rating": 4,
+    "review": "Screen and refresh rates are nothing great compared to some of the android version. But ios is familiar and battery is good. Speaker and volume is brilliant. Camera is okay. Apps work smoothly and are fast. Upgraded from a 11 to 16, so performance and battery is a big upgrade. But prefer holding the iphone 11, the 16 the sharp edges and metal feel uncomfortable especially with hands get clammy and sweaty."
+  },
+  {
+    "product_name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+    "rating": 4,
+    "review": "Upgraded from an iphone12 which I used for the last 6 years! The 16 is great - The battery is better, It’s faster, camera has some additional features - but pretty much the same old same old beyond that. Loving ios18 - apple notes is 💯"
+  },
+  {
+    "product_name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramarine",
+    "rating": 4,
+    "review": "I recently went through the exchange process for my old iPhone 11 (black), and I have to say the experience was neither convincing nor comfortable. My phone was in perfectly good condition with no actual damage—just a few extremely minor paint marks on the edges, which were clearly the result of regular use with a phone case. This kind of wear is completely normal for a four-year-old phone, especially in black.

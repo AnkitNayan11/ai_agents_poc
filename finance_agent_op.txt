@@ -1,0 +1,30 @@
+━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ Summarize analyst recommendations for NVDA                                                      ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (9.4s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ Running:                                                                                        ┃
+┃                                                                                                 ┃
+┃  • get_analyst_recommendations(symbol=NVDA)                                                     ┃
+┃                                                                                                 ┃
+┃ Here's a summary of the analyst recommendations for NVIDIA Corporation (NVDA) over the past     ┃
+┃ three months:                                                                                   ┃
+┃                                                                                                 ┃
+┃                                                                                                 ┃
+┃   Period     Strong Buy   Buy   Hold   Sell   Strong Sell                                       ┃
+┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                                      ┃
+┃   Current    12           46    7      1      0                                                 ┃
+┃   -1 Month   12           45    6      1      0                                                 ┃
+┃   -2 Month   12           44    7      1      0                                                 ┃
+┃                                                                                                 ┃
+┃                                                                                                 ┃
+┃  • The number of "Strong Buy" recommendations has remained consistent at 12 throughout the past ┃
+┃    three months.                                                                                ┃
+┃  • There has been a slight increase in "Buy" recommendations from 44 two months ago to 46       ┃
+┃    currently.                                                                                   ┃
+┃  • "Hold" and "Sell" recommendations have seen minor fluctuations.                              ┃
+┃  • There are no "Strong Sell" recommendations for NVDA.                                         ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,54 @@
+(aienv) ankitnayan@SV-MAC-273 ai_agent % python rag_agent.py                         
+[2025-07-17T08:20:24Z WARN  lance::dataset::write::insert] No existing dataset at /Users/ankitnayan/Downloads/ai_agent/tmp/lancedb/recipes.lance, it will be created
+INFO     Creating collection                                                                       
+INFO     Loading knowledge base                                                                    
+INFO     Reading: https://phi-public.s3.amazonaws.com/recipes/ThaiRecipes.pdf                      
+INFO     Added 14 documents to knowledge base                                                      
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ How do I make chicken and galangal in coconut milk soup                                         ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (21.4s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ Running:                                                                                        ┃
+┃                                                                                                 ┃
+┃  • search_knowledge_base(query=chicken and galangal in coconut milk soup recipe)                ┃
+┃                                                                                                 ┃
+┃ To make chicken and galangal in coconut milk soup (Tom Kha Gai), you'll need the following      ┃
+┃ ingredients and follow these steps:                                                             ┃
+┃                                                                                                 ┃
+┃                                    Ingredients (One serving)                                    ┃
+┃                                                                                                 ┃
+┃  • 150 grams chicken, cut into bite-size pieces                                                 ┃
+┃  • 50 grams sliced young galangal                                                               ┃
+┃  • 100 grams lightly crushed lemongrass, julienned                                              ┃
+┃  • 100 grams straw mushrooms                                                                    ┃
+┃  • 250 grams coconut milk                                                                       ┃
+┃  • 100 grams chicken stock                                                                      ┃
+┃  • 3 tbsp lime juice                                                                            ┃
+┃  • 3 tbsp fish sauce                                                                            ┃
+┃  • 2 leaves kaffir lime, shredded                                                               ┃
+┃  • 1-2 bird’s eye chilies, pounded                                                              ┃
+┃  • 3 leaves coriander                                                                           ┃
+┃                                                                                                 ┃
+┃                                           Directions                                            ┃
+┃                                                                                                 ┃
+┃  1 Heat the Base: Bring the chicken stock and coconut milk to a slow boil in a pot.             ┃
+┃  2 Add Flavors and Chicken: Add the galangal, lemongrass, chicken, and mushrooms. When the soup ┃
+┃    returns to a boil, season it with fish sauce.                                                ┃
+┃  3 Finish the Soup: Wait until the chicken is cooked, and then add the kaffir lime leaves and   ┃
+┃    bird’s eye chilies.                                                                          ┃
+┃  4 Add Lime Juice Off Heat: Remove the pot from heat and add lime juice.                        ┃
+┃  5 Garnish: Garnish with coriander leaves before serving.                                       ┃
+┃                                                                                                 ┃
+┃                                              Tips                                               ┃
+┃                                                                                                 ┃
+┃  • Keep the heat low throughout the cooking process to prevent the coconut milk from            ┃
+┃    separating.                                                                                  ┃
+┃  • If using mature galangal, consider reducing the amount.                                      ┃
+┃  • Lime juice is more aromatic when added after removing the pot from heat.                     ┃
+┃  • Adjust chilies for your preferred level of spiciness.                                        ┃
+┃                                                                                                 ┃
+┃ Enjoy your homemade Tom Kha Gai!                                                                ┃
+┃                                       

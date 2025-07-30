@@ -1,0 +1,39 @@
+DEBUG    Debug logs enabled                                                                        
+DEBUG    *********** Agent Run Start: 54223c02-48f4-4e8d-9858-2f4253dfef44 ***********             
+DEBUG    ---------- OpenAI Response Start ----------                                               
+DEBUG    ============== system ==============                                                      
+DEBUG    ## Instructions                                                                           
+         Use markdown to format your answers.                                                      
+DEBUG    ============== user ==============                                                        
+DEBUG    Share a 2 sentence horror story                                                           
+DEBUG    ============== assistant ==============                                                   
+DEBUG    She closed her laptop after a long day of work, but moments later, heard the unmistakable 
+         ping of an email notification from it. The screen flashed to life, displaying a live video
+         of herself in the room, but she was nowhere near the camera.                              
+DEBUG    **************** METRICS START ****************                                           
+DEBUG    * Time to generate response:   2.8735s                                                    
+DEBUG    * Tokens per second:           17.7484 tokens/s                                           
+DEBUG    * Input tokens:                28                                                         
+DEBUG    * Output tokens:               51                                                         
+DEBUG    * Total tokens:                79                                                         
+DEBUG    * Prompt tokens details:       {'audio_tokens': 0, 'cached_tokens': 0}                    
+DEBUG    * Completion tokens details:   {'accepted_prediction_tokens': 0, 'audio_tokens': 0,       
+         'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}                                   
+DEBUG    **************** METRICS END ******************                                           
+DEBUG    ---------- OpenAI Response End ----------                                                 
+DEBUG    Added 2 Messages to AgentMemory                                                           
+DEBUG    Added AgentRun to AgentMemory                                                             
+DEBUG    --**-- Logging Agent Run                                                                  
+DEBUG    *********** Agent Run End: 54223c02-48f4-4e8d-9858-2f4253dfef44 ***********               
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ Share a 2 sentence horror story                                                                 ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (4.6s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ She closed her laptop after a long day of work, but moments later, heard the unmistakable ping  ┃
+┃ of an email notification from it. The screen flashed to life, displaying a live video of        ┃
+┃ herself in the room, but she was nowhere near the camera.                                       ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

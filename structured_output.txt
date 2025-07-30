@@ -1,0 +1,46 @@
+(aienv) ankitnayan@SV-MAC-273 ai_agent % python structured_output.py
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ New York                                                                                        ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (6.2s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ {                                                                                               ┃
+┃   "setting": "A bustling New York City filled with skyscrapers, bustling streets, and iconic la ┃
+┃   "ending": "In a heartwarming climax, the protagonists save the city from a secret threat, and ┃
+┃   "genre": "Romantic Comedy",                                                                   ┃
+┃   "name": "Love in the Big Apple",                                                              ┃
+┃   "characters": [                                                                               ┃
+┃     "Alex",                                                                                     ┃
+┃     "Taylor",                                                                                   ┃
+┃     "Sam",                                                                                      ┃
+┃     "Jordan"                                                                                    ┃
+┃   ],                                                                                            ┃
+┃   "storyline": "Alex, a cynical New Yorker, crosses paths with Taylor, an optimistic tourist, a ┃
+┃ }                                                                                               ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ New York                                                                                        ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (9.8s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ {                                                                                               ┃
+┃   "setting": "New York City. From the bustling streets of Manhattan to the quiet corners of Bro ┃
+┃   "ending": "After a heart-pounding chase through the neon-lit streets of Times Square, Ryan an ┃
+┃   "genre": "Action Thriller",                                                                   ┃
+┃   "name": "Nightfall Chase",                                                                    ┃
+┃   "characters": [                                                                               ┃
+┃     "Ryan Cruz",                                                                                ┃
+┃     "Samantha Ellis",                                                                           ┃
+┃     "Harold Winchester",                                                                        ┃
+┃     "Erica Stone"                                                                               ┃
+┃   ],                                                                                            ┃
+┃   "storyline": "After being framed for a heinous crime they didn't commit, Ryan Cruz, a former  ┃
+┃ }                                                                                               ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+(aienv) ankitnayan@SV-MAC-273 ai_agent % 

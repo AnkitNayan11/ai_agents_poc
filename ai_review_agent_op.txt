@@ -1,0 +1,113 @@
+(aienv) ankitnayan@SV-MAC-273 ai_agent % python ai_review_agent.py
+INFO     Creating collection                                                                                                                 
+INFO     Loading knowledge base                                                                                                              
+INFO     Reading: /Users/ankitnayan/Downloads/ai_agent/webscraper_result/merged_reviews.txt                                                  
+INFO     Inserted batch of 100 documents.                                                                                                    
+INFO     Inserted batch of 41 documents.                                                                                                     
+INFO     Added 141 documents to knowledge base                                                                                               
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                           ┃
+┃ What are the top complaints in the reviews?                                                                                               ┃
+┃                                                                                                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (7.0s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                           ┃
+┃ The top complaints in the reviews include:                                                                                                ┃
+┃                                                                                                                                           ┃
+┃ 1. **Technical Issues:** Some users report the phone getting hung, glitches while typing, and sensitivity issues with touch. These issues ┃
+┃ appear to affect the phone's overall performance and user experience.                                                                     ┃
+┃                                                                                                                                           ┃
+┃ 2. **Product Authenticity and Decline in Quality:** There are concerns about the declining performance of the product over time, with the ┃
+┃ impression that the product's quality may not be keeping pace with its increased price.                                                   ┃
+┃                                                                                                                                           ┃
+┃ 3. **Defective Components:** Specific mentions include a defective volume button which remained in a pressed condition and was not        ┃
+┃ functional, leading to requests for replacement or warranty service.                                                                      ┃
+┃                                                                                                                                           ┃
+┃ 4. **Overheating Issues:** Some users find the phone becoming hot during outdoor use, which points to thermal management problems that    ┃
+┃ could impact usability, especially in warm conditions.                                                                                    ┃
+┃                                                                                                                                           ┃
+┃ These complaints highlight dissatisfaction with operational reliability, perceived value for cost, and specific hardware defects.         ┃
+┃                                                                                                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+
+
+
+
+
+
+
+
+
+
+
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                           ┃
+┃ How is the overall customer sentiment in the reviews for apple products?                                                                  ┃
+┃                                                                                                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (7.1s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                           ┃
+┃ The overall customer sentiment for Apple products, based on reviews, appears to be generally positive. Many reviews highlight various     ┃
+┃ positive features such as the Apple ecosystem, seamless device integration, and good security. Customers appreciate the performance       ┃
+┃ upgrades, camera features, and the familiarity of iOS. Battery life and speaker quality are often complimented as well.                   ┃
+┃                                                                                                                                           ┃
+┃ However, there are some reported issues, like occasional overheating, dissatisfaction with the exchange process, and some minor           ┃
+┃ grievances about not including a charging brick with phones. The vibrant performance and quality seem to overshadow these drawbacks for   ┃
+┃ most users.                                                                                                                               ┃
+┃                                                                                                                                           ┃
+┃ Ratings show a strong positive sentiment, with many reviews giving high star ratings, typically around 4 to 5 stars out of 5, showcasing  ┃
+┃ a generally favorable impression of Apple products.                                                                                       ┃
+┃                                                                                                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+(aienv) ankitnayan@SV-MAC-273 ai_agent % 
+
+
+
+
+
+(aienv) ankitnayan@SV-MAC-273 ai_agent % python ai_review_agent.py
+INFO     Creating collection                                                                                                                 
+INFO     Loading knowledge base                                                                                                              
+INFO     Reading: /Users/ankitnayan/Downloads/ai_agent/webscraper_result/extracted_review.txt                                                
+INFO     Added 0 documents to knowledge base                                                                                                 
+ Knowledge base loaded.
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                           ┃
+┃ Based on the reviews, what should be improved in the next version?                                                                        ┃
+┃                                                                                                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (10.6s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                           ┃
+┃ Based on the reviews from customers, there are several areas that could be improved in the next version of the product:                   ┃
+┃                                                                                                                                           ┃
+┃ 1. **Performance Issues**: There are reports of the phone getting hanged, glitches while typing, and inconsistent touch sensitivity. It's ┃
+┃ important to address these to ensure a smoother user experience.                                                                          ┃
+┃                                                                                                                                           ┃
+┃ 2. **Camera Functionality**: Some users noted issues with the camera button not working properly and the camera taking time to stabilize. ┃
+┃ Improving the camera's responsiveness and stability can enhance user satisfaction.                                                        ┃
+┃                                                                                                                                           ┃
+┃ 3. **Network Connectivity**: There are concerns about network connectivity glitches. Ensuring reliable connectivity is crucial for user   ┃
+┃ satisfaction.                                                                                                                             ┃
+┃                                                                                                                                           ┃
+┃ 4. **Sensor Performance**: Some users reported issues with the gyroscope, proximity sensor, and calling sensor, causing the handset to    ┃
+┃ heat up. These sensors need to function properly to avoid such issues.                                                                    ┃
+┃                                                                                                                                           ┃
+┃ 5. **Brightness and Contrast**: Improvements may be needed in the device's display settings to ensure proper brightness and contrast      ┃
+┃ levels.                                                                                                                                   ┃
+┃                                                                                                                                           ┃
+┃ 6. **Battery Life**: Several reviews mentioned weak battery performance and battery drain issues. Enhancing battery life and efficiency   ┃
+┃ would improve the overall product.                                                                                                        ┃
+┃                                                                                                                                           ┃
+┃ 7. **Packaging and Presentation**: While not directly related to the product functionality, some users mentioned issues with the          ┃
+┃ packaging being dirty or mishandled. Improving the packaging quality could enhance the first impression and customer satisfaction.        ┃
+┃                                                                                                                                           ┃
+┃ These areas of improvement could significantly improve the user experience and satisfaction with future versions of the product.          ┃
+┃                                                                                                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+(aienv) ankitnayan@SV-MAC-273 ai_agent % 
+
+
+
+
+

@@ -1,0 +1,32 @@
+/Users/ankitnayan/opt/anaconda3/envs/aienv/lib/python3.11/site-packages/phi/tools/duckduckgo.py:65:
+RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install 
+ddgs` instead.
+  ddgs = DDGS(
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ Tell me about OpenAI Sora?                                                                      ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (8.7s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                 ┃
+┃ Running:                                                                                        ┃
+┃                                                                                                 ┃
+┃  • duckduckgo_search(query=OpenAI Sora)                                                         ┃
+┃                                                                                                 ┃
+┃ OpenAI Sora is an AI model developed by OpenAI designed for generating videos from text, image, ┃
+┃ or video prompts. It allows users to create realistic and imaginative video scenes based on the ┃
+┃ input instructions provided. Sora is part of the ChatGPT Plus, Team, and Pro plans and offers   ┃
+┃ advanced video generation capabilities, enabling users to generate complex and realistic        ┃
+┃ videos. It is a versatile tool for video creation, supporting various formats and imaginative   ┃
+┃ scene generation.                                                                               ┃
+┃                                                                                                 ┃
+┃ For more details, you can visit the official Sora page on OpenAI's website or refer to          ┃
+┃ tutorials and help articles available on the OpenAI Help Center and OpenAI Academy.             ┃
+┃                                                                                                 ┃
+┃ Sources:                                                                                        ┃
+┃                                                                                                 ┃
+┃  • OpenAI Sora                                                                                  ┃
+┃  • Generating videos on Sora - OpenAI Help Center                                               ┃
+┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+(aienv) ankitn
